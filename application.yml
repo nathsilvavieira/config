@@ -14,7 +14,7 @@ management:
     health:
       show-details: always
 info:
-  author: Nathalia Vieira
+  author: Nathalia
 server:
   port: ${PORT:9999}
-message: Teste
+message: Mensagem generica
